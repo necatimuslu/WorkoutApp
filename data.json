@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "abs-workout-simple-12332112",
+    "name": "Abs Workout Simple!",
+    "duration": 345,
+    "difficulty": "easy",
+    "sequence": [
+      {
+        "slug": "pushups-312313123",
+        "name": "Pushups",
+        "type": "exercise",
+        "reps": 15,
+        "duration": 60
+      },
+      {
+        "slug": "break-312313123",
+        "name": "Break",
+        "type": "break",
+        "duration": 15
+      },
+      {
+        "slug": "lower-back-strecth-312313123",
+        "name": "Lower back strecth",
+
+        "type": "strecth",
+        "duration": 120
+      },
+      {
+        "slug": "pull-ups-312313123",
+        "name": "Pull ups",
+
+        "type": "exercise",
+        "reps": "10",
+        "duration": 120
+      }
+    ]
+  },
+  {
+    "slug": "easy-arm-workout-12332112",
+    "name": "Easy Arm Workout ",
+    "duration": 240,
+    "difficulty": "medium",
+    "sequence": [
+      {
+        "slug": "pushups-312313123",
+        "name": "Pushups",
+        "type": "exercise",
+        "reps": 15,
+        "duration": 60
+      },
+      {
+        "slug": "break-312313123",
+        "name": "Break",
+
+        "type": "break",
+        "duration": 15
+      },
+      {
+        "slug": "lower-back-strecth-312313123",
+        "name": "Lower back strecth",
+
+        "type": "strecth",
+        "duration": 120
+      },
+      {
+        "slug": "pull-ups-312313123",
+        "name": "Pull ups",
+
+        "type": "exercise",
+        "reps": "10",
+        "duration": 120
+      }
+    ]
+  },
+  {
+    "slug": "cardio-workout-12332112",
+    "name": "Cardio  Workout ",
+    "duration": 345,
+    "difficulty": "hard",
+    "sequence": [
+      {
+        "slug": "pushups-312313123",
+        "name": "Pushups",
+        "type": "exercise",
+        "reps": 15,
+        "duration": 60
+      },
+      {
+        "slug": "break-312313123",
+        "name": "Break",
+
+        "type": "break",
+        "duration": 15
+      },
+      {
+        "slug": "lower-back-strecth-312313123",
+        "name": "Lower back strecth",
+
+        "type": "strecth",
+        "duration": 120
+      },
+      {
+        "slug": "pull-ups-312313123",
+        "name": "Pull ups",
+
+        "type": "exercise",
+        "reps": "10",
+        "duration": 120
+      }
+    ]
+  }
+]
